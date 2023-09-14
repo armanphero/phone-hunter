@@ -1,0 +1,80 @@
+img {
+    max-width: 100%;
+}
+
+
+/* nav and banner css */
+
+.header-and-banner {
+    background: #f3f8ff;
+}
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo h1 {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: fantasy;
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+.header-menu ul {
+    display: flex;
+    padding: 0px;
+}
+
+.header-menu ul li {
+    list-style: none;
+}
+
+.header-menu ul li a {
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* banner content */
+.banner-content {
+    padding: 4% 0;
+    margin-top: 2%;
+    text-align: center;
+}
+
+
+
+.banner-content p {
+    width: 58%;
+    margin: 3% auto;
+}
+
+.banner-img {
+    display: flex;
+}
+
+/*  */
+.card {
+    max-width: 22rem;
+    margin: 0 auto;
+}
+
+#card-img {
+    background: #f3f8ff;
+    padding: 10%;
+    width: 91%;
+    margin: 0 auto;
+}
+
+div#card-img img {
+    max-width: 60%;
+}
+
+li {
+    list-style: none;
+}
